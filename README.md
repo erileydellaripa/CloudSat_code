@@ -25,7 +25,7 @@ Directories:
 
 Data:
 
-- Data were downloaded from ftp1.cloudsat.cira.colostate.edu in directory 2B-GEOPROF.R04
+- Raw files were downloaded from ftp1.cloudsat.cira.colostate.edu in directory 2B-GEOPROF.R04
 
 Processing:
 
