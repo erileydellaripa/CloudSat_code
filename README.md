@@ -37,3 +37,5 @@ Riley, E. M., B. E. Mapes, and S. N. Tulich, 2011: Clouds Associated with the Ma
 
 Riley, E. M., and B. E. Mapes, 2009: Unexpected peak near -15°C in CloudSat echo top climatology. Geophys. Res. Lett., 36, L09819, https://doi.org/10.1029/2009GL037558.
 
+Riley, E. M., 2009: A global survey of clouds by CloudSat. M.S. thesis, Division of Meteorology and Physical Oceanography, University of Miami, 134 pp, https://scholarship.miami.edu/esploro/outputs/991031447848002976
+
