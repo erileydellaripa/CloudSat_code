@@ -20,8 +20,8 @@ Information on CloudSat Echo Object data base:
 - I had processed ice water content (IWC) and liquid water content (LWC) per EO, but I noticed an error in the way I processed this data and so the values are not correct. I can redo this eventually.
 
 Directories:
+- The processing code contains code to process the raw CloudSat files
 - The Standard_CloudSat_code directory contains IDL code that was used for various projects (i.e., my masters, PhD, and publications)
-- The MJO folder contains IDL code that was used for my 2011 JAS paper referenced below.
 
 Data:
 
