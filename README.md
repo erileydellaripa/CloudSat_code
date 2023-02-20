@@ -20,12 +20,15 @@ Information on CloudSat Echo Object data base:
 - I had processed ice water content (IWC) and liquid water content (LWC) per EO, but I noticed an error in the way I processed this data and so the values are not correct. I can redo this eventually.
 
 Data:
+
 - Data were downloaded from ftp1.cloudsat.cira.colostate.edu in directory 2B-GEOPROF.R04
 
 Processing:
+
 - Data were processed and analyzed using IDL. See CloudSat_code_README.txt for details
 
 References:
+
 Riley, E. M., B. E. Mapes, and S. N. Tulich, 2011: Clouds Associated with the Madden-Julian Oscillation: A New Perspective from CloudSat. J. Atmos. Sci., 68, 3032-3051, https://doi.org/10.1175/JAS-D-11-030.1.
 
 Riley, E. M., and B. E. Mapes, 2009: Unexpected peak near -15°C in CloudSat echo top climatology. Geophys. Res. Lett., 36, L09819, https://doi.org/10.1029/2009GL037558.
