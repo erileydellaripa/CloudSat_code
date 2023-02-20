@@ -26,6 +26,7 @@ Directories:
 Data:
 
 - Raw files were downloaded from ftp1.cloudsat.cira.colostate.edu in directory 2B-GEOPROF.R04
+- Riley Dellaripa, Emily; Mapes, Brian (2023), CloudSat Echo Object Data Set, Dryad, Dataset, https://doi.org/10.5061/dryad.jdfn2z3fm
 
 Processing:
 
